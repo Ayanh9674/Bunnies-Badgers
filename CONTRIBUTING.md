@@ -1,4 +1,4 @@
-A group of 4 members from "FUTURE INSTITUTE OF TECHNOLOGY" had created this game using python(2.7.3) & pygame.
+A group of 5 members from "FUTURE INSTITUTE OF TECHNOLOGY" had created this game using python(2.7.3) & pygame.
 
 Members:
 
@@ -9,3 +9,5 @@ Members:
             SHINAN ROYCHOWDHURI
 
             DEBARPAN DAS
+            
+            PIYASI DAS
